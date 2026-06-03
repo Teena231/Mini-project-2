@@ -1,0 +1,8 @@
+
+Building Change Detection Report
+
+Changed Pixels: 143640
+Area (sq. meters): 35910.00
+Area (sq. feet): 386535.24
+Severity Level: Medium
+Time: 2026-03-24 16:41:22
